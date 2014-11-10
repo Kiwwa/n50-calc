@@ -1,0 +1,1 @@
+web: gunicorn n50-calc:app --log-file=-
